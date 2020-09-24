@@ -8,3 +8,4 @@ def hello():
   return Winston-Steadman.github.io 
 if __name__ == '__main__':
   app.run(host='0.0.0.0')
+  else Winston-Steadman.github.io
